@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherForecastApplication</string>
+    <string name="details_message">Weather details are as below: \n City =%s \n Humidity = %d \n Pressure = %d \n Sunrise = %s \n Sunset = %s \n Temp = %.2f \n TempMax = %.2f \n TempMin = %.2f \n WindSpeed = %.2f \n Description = %s \n LastUpdated = %s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_bookmarked_error">You do not have any bookmarked location, \n please click on \'+\' button to add new one.</string>
+    <string name="title_activity_maps">Long press on Map to Select City</string>
+    <string name="title_activity_city">Select city</string>
+    <string name="temp">"Temp: %.2f"</string>
+    <string name="temp_max">"Temp Max: %.2f"</string>
+    <string name="temp_min">"Temp Min: %.2f"</string>
+    <string name="humid">"Humid: %d %%"</string>
+    <string name="updated_at">"Last updated: %s"</string>
+</resources>
